@@ -5,7 +5,7 @@
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
-var proxy = 'PROXY 192.168.1.81:38602';
+var proxy = 'PROXY 192.168.1.45:1080';
 var rules = [
     [
         [], 
